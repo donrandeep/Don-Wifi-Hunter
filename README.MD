@@ -26,6 +26,10 @@ pip install sys
 ```
 
 
+
+
+
+
 ## Installation
 
 On most systems, using "DWH" is as simple as running the following commands:
@@ -49,6 +53,17 @@ sudo python3 wifi.py
 
 ## All Connected Devices:
 ![4 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image4.png)
+
+![gif (3)](https://user-images.githubusercontent.com/86055057/156921112-c18f4adf-0356-4691-a24d-6715660f9006.gif)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+
+
 <!-- stop_ppi_description -->
+
 
 
