@@ -32,7 +32,7 @@ On most systems, using "DWH" is as simple as running the following commands:
 
 ```bash
 git clone https://github.com/donrandeep/Don-Wifi-Hunter.git
-cd Don Wifi Hunter
+cd Don-Wifi-Hunter
 sudo python3 wifi.py
 ```
 ## Example Images
