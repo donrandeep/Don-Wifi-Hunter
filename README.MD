@@ -47,7 +47,7 @@ sudo python3 wifi.py
 ## Scan your all connected devices
 ![3 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image3.png)
 
-## Now showing , all devices connected to your physical ethernet network
+## All Connected Devices:
 ![4 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image4.png)
 <!-- stop_ppi_description -->
 
