@@ -12,7 +12,8 @@ That discovers all hosts in Your local Wi-Fi network. That scan Your all connect
 
 ### Shell demo
 
-![DWH install demo]()
+![DWH install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/gif1.gif)
+
 
 ## Install Requirements (on Linux)
 
@@ -30,11 +31,24 @@ pip install sys
 On most systems, using "DWH" is as simple as running the following commands:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/donrandeep/Don-Wifi-Hunter.git
 cd Don Wifi Hunter
 sudo python3 wifi.py
 ```
+## Example Images
+```bash
+sudo python3 wifi.py
+```
+![1 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image1.png)
 
+## Enter Your IP Address & Range 
+![2 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image2.png)
+
+## Scan your all connected devices
+![3 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image3.png)
+
+## Now showing , all devices connected to your physical ethernet network
+![4 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image4.png)
 <!-- stop_ppi_description -->
 
 
