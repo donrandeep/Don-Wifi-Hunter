@@ -45,13 +45,11 @@ sudo python3 wifi.py
 ```
 ![1 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image1.png)
 
-## Enter Your IP Address & Range 
+
 ![2 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image2.png)
 
-## Scan your all connected devices
 ![3 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image3.png)
 
-## All Connected Devices:
 ![4 install demo](https://github.com/donrandeep/Don-Wifi-Hunter/blob/master/Images/image4.png)
 
 ![gif (3)](https://user-images.githubusercontent.com/86055057/156921112-c18f4adf-0356-4691-a24d-6715660f9006.gif)
