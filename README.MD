@@ -2,7 +2,7 @@
 
 # DON WIFI HUNTER 
 
-"The Don Wifi Hunter"  is a Powerfull Python-based Wifi Scanner.
+"The Don Wi-fi Hunter"  is a Powerful Python-based Wi-fi Scanner.
 That discovers all hosts in Your local Wi-Fi network. That scan Your all connected devices in physical ethernet network.  
 
 
