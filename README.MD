@@ -18,11 +18,10 @@ That discovers all hosts in Your local Wi-Fi network. That scan Your all connect
 ## Install Requirements (on Linux)
 
 ```bash
-apt-get install git python3 python3-pip python python-pip
-
+sudo apt install python3
+sudo apt install python3-pip
+sudo apt install python3-scapy
 pip install scapy
-pip install re
-pip install sys
 ```
 
 
